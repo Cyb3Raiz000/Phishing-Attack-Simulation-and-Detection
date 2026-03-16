@@ -133,3 +133,10 @@ After that you will see in the Terminal Default 'USERNAME' and 'PASSWORD' to Log
 ```
 
 <b>Now CLick ON Save Template</b>
+
+## Step 4. Users & Groups Configurations
+<b>Add First Name, Last Name, Email and Position</b>
+
+<b>At Least Email Address for Sent</b>
+
+<b>Click On Add Button and Than Save Changes</b>
