@@ -135,8 +135,31 @@ After that you will see in the Terminal Default 'USERNAME' and 'PASSWORD' to Log
 <b>Now CLick ON Save Template</b>
 
 ## Step 4. Users & Groups Configurations
+<b>Name: camp one group
+
 <b>Add First Name, Last Name, Email and Position</b>
 
 <b>At Least Email Address for Sent</b>
 
 <b>Click On Add Button and Than Save Changes</b>
+
+
+## Now You Are Ready to Create Campaigns
+<b>Click New Campaign Button</b>
+
+<b>Name: Reward Campaign</b>
+
+<b>Email Template: Reward ( We Recently Configured in the Email Templates )</b>
+
+<b>Landing Page: Login Account</b>
+
+<b>URL: http://<your-ip-address>/</b>
+
+<b>Launch Date: Set Campaign Launch Date And Time</b>
+
+<b>Sending Profile: Google Admin ( Also We Recently Configured in the Sending profiles )</b>
+
+<b>Groups: camp one group</b>
+
+<b>Now Click on Launch Campaign</b>
+
