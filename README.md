@@ -9,7 +9,7 @@ Phishing simulation tools, email security tools, Python.
 <div align="center">
   <img src="assets/gophish-image.png" alt="SUCCESS Solve The Room Demo" width="800">
   <p align="center">
-    <b>Figure</b> <script>alert(1)</script>
+    <b>Figure: Phishing Campaign Tool</b>
   </p>
 </div>
 
