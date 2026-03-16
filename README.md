@@ -153,7 +153,7 @@ After that you will see in the Terminal Default 'USERNAME' and 'PASSWORD' to Log
 
 <b>Landing Page: Login Account</b>
 
-<b>URL: http://<your-ip-address>/</b>
+<b>URL: http://your-ip-address/</b>
 
 <b>Launch Date: Set Campaign Launch Date And Time</b>
 
