@@ -41,3 +41,15 @@ After that you will see in the Terminal Default 'USERNAME' and 'PASSWORD' to Log
 
 <b>Username/Password: Your Gmail address and an App Password (not your login password).</b>
 
+<b>Click on Save Profile</b>
+
+## Step 2. Landing Page (The Google Clone)
+<b>Name: Login Account</b>
+
+<b>Copy This HTML Login Page Code And Past HTML Editor</b>
+
+<b>Capture Submitted Data: Checked (ON).</b>
+
+<b>Capture Passwords: Checked (ON).</b>
+
+<b>Redirect to: https://accounts.google.com (to hide the attack after the victim "logs in").</b>
