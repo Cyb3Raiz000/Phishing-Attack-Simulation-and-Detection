@@ -32,9 +32,12 @@ sudo ./gophish
 After that you will see in the Terminal Default 'USERNAME' and 'PASSWORD' to Login the tool, You will instructed after login.
 
 # Setup Campaign in GoPhish
-## Step 1
-## Sending Profile (The SMTP Configuration)
+## Step 1. Sending Profile (The SMTP Configuration)
 <b>Profile Name: Google Admin</b>
+
 <b>SMTP From: admin@google.com</b>
+
 <b>Host: smtp.gmail.com:587</b>
+
 <b>Username/Password: Your Gmail address and an App Password (not your login password).</b>
+
