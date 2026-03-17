@@ -162,5 +162,3 @@ After that you will see in the Terminal Default 'USERNAME' and 'PASSWORD' to Log
 <b>Groups: camp one group</b>
 
 <b>Now Click on Launch Campaign</b>
-
-# Campaign Setup Configuration is done!
