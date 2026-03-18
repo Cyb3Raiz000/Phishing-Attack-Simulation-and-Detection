@@ -162,3 +162,5 @@ After that you will see in the Terminal Default 'USERNAME' and 'PASSWORD' to Log
 <b>Groups: camp one group</b>
 
 <b>Now Click on Launch Campaign</b>
+# Watch Full Credentials Submition Demo
+[![Watch the Demo](assets/GoPhish-demo.gif)](https://drive.google.com/file/d/19o2M197LGPKZLaKogFU3huoG1ZGFcIPj/view?usp=sharing)
