@@ -163,4 +163,5 @@ After that you will see in the Terminal Default 'USERNAME' and 'PASSWORD' to Log
 
 <b>Now Click on Launch Campaign</b>
 # Watch Full Credentials Submition Demo
+## After Launch The Attack You Will see How your Credentials Actually Grap by attackers.
 [![Watch the Demo](assets/GoPhish-demo.gif)](https://drive.google.com/file/d/19o2M197LGPKZLaKogFU3huoG1ZGFcIPj/view?usp=sharing)
