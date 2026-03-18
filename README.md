@@ -165,3 +165,22 @@ After that you will see in the Terminal Default 'USERNAME' and 'PASSWORD' to Log
 # Watch Full Credentials Submition Demo
 ## After Launch The Attack You Will see How your Credentials Actually Grap by the Attackers.
 [![Watch the Demo](assets/GoPhish-demo.gif)](https://drive.google.com/file/d/19o2M197LGPKZLaKogFU3huoG1ZGFcIPj/view?usp=sharing)
+
+
+# The Detection (The Defense)
+## 📈 Phase 3: Advanced Security Actions
+<b>Since your objective is to "implement detection mechanisms,"  Demonstrated Automated Incident Response. When This script finds a 70+ score</b>
+
+<b>Auto-Quarantine: Move the email to Spam folder.</b>
+
+<b>IOC Extraction: Extract the "Indicators of Compromise" (the malicious sender's IP and the phishing URL).</b>
+
+<b>Blacklisting: Append these IOCs to a blacklist.txt file that the script checks before processing new mail.</b>
+
+<div align="center">
+  <img src="assets/Gmail-Inbox-Scan.gif" alt="Automated Incident Response" width="800">
+  <p align="center">
+    <b>Figure: Gmail Inbox Scan Demo</b>
+  </p>
+</div>
+
