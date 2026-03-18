@@ -168,7 +168,7 @@ After that you will see in the Terminal Default 'USERNAME' and 'PASSWORD' to Log
 
 
 # The Detection (The Defense)
-## 📈 Phase 3: Advanced Security Actions
+## 📈 Advanced Security Actions
 <b>Since your objective is to "implement detection mechanisms,"  Demonstrated Automated Incident Response. When This script finds a 70+ score</b>
 
 <b>Auto-Quarantine: Move the email to Spam folder.</b>
