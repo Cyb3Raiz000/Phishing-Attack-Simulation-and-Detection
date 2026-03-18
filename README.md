@@ -27,7 +27,7 @@ Run GoPhish
 ```
 sudo ./gophish
 ```
-You will see in the Terminal Default 'USERNAME' and 'PASSWORD' to Login the tool, You will instructed after login.
+You will see in the Terminal Default 'USERNAME' and 'PASSWORD' to Login the tool, You will instructed after login to reset default Credentials.
 
 # Setup Campaign in GoPhish
 ## Step 1. Sending Profile (The SMTP Configuration)
